@@ -11,7 +11,7 @@
   </div>
   <!-- Top Menu Items -->
   <ul class="nav navbar-right top-nav">
-    <li><a href="../index.php"></a>HOME SITE</li>
+      <li><a href="../index.php">HOME SITE</a></li>
 
 
     <li class="dropdown">
@@ -55,10 +55,10 @@
         <a href="javascript:;" data-toggle="collapse" data-target="#demo"><i class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
         <ul id="demo" class="collapse">
           <li>
-            <a href="#">Dropdown Item</a>
+            <a href="users.php">View All Users</a>
           </li>
           <li>
-            <a href="#">Dropdown Item</a>
+            <a href="users.php?source=add_user">Add Users</a>
           </li>
         </ul>
       </li>
